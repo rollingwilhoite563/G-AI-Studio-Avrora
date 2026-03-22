@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/G-AI-Studio-Avrora/",
+    "build": "vite build",
     "preview": "vite preview",
     "lint": "tsc --noEmit"
   },
